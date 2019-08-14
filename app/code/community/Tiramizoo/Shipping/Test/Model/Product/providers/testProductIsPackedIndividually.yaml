@@ -1,0 +1,29 @@
+- 
+	- 1
+	- false
+- 
+	- 2
+	- false
+- 
+	- 4
+	- true
+- 
+	- 5
+	- false
+- 
+	- 6
+	- true
+- 
+	- 7
+	- false
+- 
+	- 8 # product_id
+	- true # isPackedIndividually
+	- individual # packingStrategy
+- 
+	- 9
+	- true
+	- individual # packingStrategy
+- 
+	- 9
+	- false
