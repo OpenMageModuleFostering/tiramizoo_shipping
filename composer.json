@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Tiramizoo_Shipping",
+    "name": "OpenMageModuleFostering\/Tiramizoo_Shipping",
     "type": "magento-module",
     "license": "Massachusetts-Institute-of-Technology-License-(MITL)",
     "homepage": "",
     "description": "Magento Tiramizoo plugin for integration with Tiramizoo API. ",
     "authors": [
-    {
-        "name": "Tiramizoo GmbH",
-        "email": "tech@tiramizoo.com"
-    }
-],
+        {
+            "name": "Tiramizoo GmbH",
+            "email": "tech@tiramizoo.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
